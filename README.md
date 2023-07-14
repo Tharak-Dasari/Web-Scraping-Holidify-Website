@@ -26,10 +26,7 @@ A [CSV (Comma Separated Values)](https://www.programiz.com/python-programming/cs
 Now, we will create appropriate functions to combine the extracted data from all the pages, create a dataframe with it and save it to a single CSV file. This will provide us with all the data from the selected pages in a single file.
 
 ## This is how the Mega data looks.
-Place Name	 Best Time To Visit  	Ratings	   Link to know more About the Place
-0	MANALI	   October to Jun	      4.5/5	     https://www.holidify.com//places/manali
-1	LADAKH	   Jun to Sep     	    4.6/5	     https://www.holidify.com//places/ladakh
-2	COORG	     October to March	    4.2/5	     https://www.holidify.com//places/coorg
+![](https://imgur.com/WIYJeGf.jpg)
 
 ## Summary Of the Project
 1. Install required libraries like *Jovian*,*Requests*,*BeautifulSoup*.
